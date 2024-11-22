@@ -1,0 +1,2 @@
+# psychic-guide
+guideship
